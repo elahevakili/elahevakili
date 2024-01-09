@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elahevakili
-- 👀 I’m interested in front-end 
+- 👀 I’m interested in full-stack
 - 🌱 I’m currently learning javascropt
-- 💞️ I’m looking to collaborate on ineternship as a front-end developer
+- 💞️ I’m looking to collaborate on ineternship as a front-end developer,back-end developer,IT and Mobile programming
   
 
 <!---
